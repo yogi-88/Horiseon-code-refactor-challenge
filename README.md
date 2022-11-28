@@ -28,8 +28,8 @@ THEN I find a concise, descriptive title.
 ```
 ### Screenshot
 
-![Screenshot of Horiseon website](assets/Screenshot 2022-11-28 at 14-56-46 Horiseon Social Solution Services Inc.png)
+![Horiseon webpage](assets/images/Screenshot%202022-11-28%20at%2014-56-46%20Horiseon%20Social%20Solution%20Services%20Inc.png)
 
 ### Link to Deployed application
-Page deployed at : 
+Page deployed at : https://yogi-88.github.io/Horiseon-code-refactor-challenge/
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
