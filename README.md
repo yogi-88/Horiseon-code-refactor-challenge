@@ -32,4 +32,6 @@ THEN I find a concise, descriptive title.
 
 ### Link to Deployed application
 Page deployed at : https://yogi-88.github.io/Horiseon-code-refactor-challenge/
+
+####
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
