@@ -13,6 +13,7 @@ SO THAT our own site is optimized for search engines
 
 ### Acceptance Criteria
 
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find Semantic HTML elements throughout the source code.
@@ -24,12 +25,10 @@ WHEN I view the heading attributes
 THEN they fall in sequential order.
 WHEN I view the title element
 THEN I find a concise, descriptive title.
-
+```
 ### Screenshot
 
-The following image shows the web application's appearance and functionality:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/Screenshot 2022-11-28 at 14-56-46 Horiseon Social Solution Services Inc.png)
+![Screenshot of Horiseon website](assets/Screenshot 2022-11-28 at 14-56-46 Horiseon Social Solution Services Inc.png)
 
 ### Link to Deployed application
 Page deployed at : 
